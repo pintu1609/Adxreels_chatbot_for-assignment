@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+requests
+pydantic
+# Optional for local model generation:
+transformers>=4.30.0
